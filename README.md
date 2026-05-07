@@ -1,4 +1,4 @@
-markdown# Carreño Post2 U9 — Widget Tests y Golden Tests
+# Carreño Post2 U9 — Widget Tests y Golden Tests
 
 **Curso:** Aplicaciones Móviles — Unidad 9: Testing y Aseguramiento de Calidad  
 **Estudiante:** Johan Carreño  
